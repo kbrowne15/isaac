@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['repository_20structure_270',['Repository Structure',['../repo_structure.html',1,'md_isaac_Tutorials']]]
+  ['panorama_20coverage_20planning_297',['Panorama coverage planning',['../pano_coverage.html',1,'inspection']]]
 ];

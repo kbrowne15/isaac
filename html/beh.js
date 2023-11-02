@@ -1,5 +1,7 @@
 var beh =
 [
-    [ "Inspection Behavior", "inspection.html", null ],
-    [ "Cargo Behavior", "cargo.html", null ]
+    [ "Inspection Behavior", "inspection.html", "inspection" ],
+    [ "Cargo Behavior", "cargo.html", [
+      [ "Using the cargo tool", "cargo.html#autotoc_md55", null ]
+    ] ]
 ];
